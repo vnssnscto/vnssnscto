@@ -1,4 +1,4 @@
-- 🔭 Atualmente, trabalhando como auxiliar administrativo.
+- 🔭 Atualmente, trabalhando como auxiliar administrativo
 - 🌱 Cursando Especialização em Data Science
 - 👯 Techs & Tools: AWS, Python, Power BI, Microsoft Excel
 - 📫 How to reach me: nessa_vpn@hotmail.com
