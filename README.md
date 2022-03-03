@@ -1,5 +1,5 @@
 - 🔭 Atualmente, trabalhando como auxiliar administrativo
 - 🌱 Cursando Especialização em Data Science
 - 👯 Techs & Tools: AWS, Python, Power BI, Microsoft Excel
-- 📫 How to reach me: nessa_vpn@hotmail.com
-- 😄 Pronouns: ela/dela
+- 📫 Entre em contato: nessa_vpn@hotmail.com
+- 😄 Pronomes: ela/dela
