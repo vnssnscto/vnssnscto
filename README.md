@@ -1,4 +1,4 @@
-- 🔭 Desenvolvendo hard-skills para atuar como Engenheira de Dados
+- 🔭 Analista de Business Intelligence
 - 🌱 Cursando Especialização em Data Science
 - 👯 Techs & Tools: AWS, Python, Power BI, Microsoft Excel
 - 📫 Entre em contato: nessa_vpn@hotmail.com
