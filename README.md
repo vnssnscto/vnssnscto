@@ -1,5 +1,5 @@
-- 🔭 Analista de Business Intelligence
+- 🔭 Analista de Business Intelligence Jr.
 - 🌱 Cursando Especialização em Data Science
-- 👯 Techs & Tools: AWS, Python, Power BI, Microsoft Excel
+- 👯 Techs & Tools: AWS, Python, Power BI, Microsoft Excel, PDI
 - 📫 Entre em contato: nessa_vpn@hotmail.com
 - 😄 Pronomes: ela/dela
